@@ -4381,3 +4381,22 @@ Muse 能帮你记日子、备草稿、提醒你露面，但真正坐下来吃顿
 - Telegram：[@EvanCreates](https://t.me/EvanCreates)
 - TG 交流群：[t.me/jason_Telegramx](https://t.me/jason_Telegramx)
 - TG 频道：[t.me/APPKITLIFE](https://t.me/APPKITLIFE)
+
+
+<a id="support"></a>
+## ☕ 支持项目
+
+如果这些玩法帮你省下了时间，欢迎自愿赞赏，支持内容整理与持续更新。感谢每一份支持，也欢迎通过 Star、Issue 或 PR 参与项目。
+
+<table>
+  <tr>
+    <th align="center">支付宝</th>
+    <th align="center">微信赞赏</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="assets/sponsor/alipay.jpg"><img src="assets/sponsor/alipay.jpg" alt="支付宝收款二维码" width="240" /></a></td>
+    <td align="center"><a href="assets/sponsor/wechat.jpg"><img src="assets/sponsor/wechat.jpg" alt="Jason 的微信赞赏码" width="240" /></a></td>
+  </tr>
+</table>
+
+使用对应 App 扫码，或点击图片查看原图后保存识别。赞赏完全自愿，项目内容仍可免费阅读。
